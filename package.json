@@ -1,0 +1,18 @@
+{
+  "name": "identity-server-demo1",
+  "version": "1.0.0",
+  "description": "Demo de autenticação server side utilizando Identity Server",
+  "repository": {
+    "type": "git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openid-client": "^2.1.1"
+  }
+}
